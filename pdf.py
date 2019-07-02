@@ -1,6 +1,7 @@
 from reportlab.pdfgen import canvas
 from reportlab.lib.pagesizes import A4, letter
 
+# genero un pdf con la imagen guardada que se ha generado con la visualizacion del codigo
 def generate_pdf():
     ancho, alto = A4
     c=canvas.Canvas("pipeline.pdf", pagesize=A4)

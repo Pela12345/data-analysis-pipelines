@@ -3,6 +3,7 @@ import matplotlib.pyplot as plt
 import analysis
 import seaborn as sns
 
+# cre dos combinaciones de graficos dependiendo de la variable elegida en el input
 def growth_plot(data_merged, variable, heading):
     data5 = data_merged.groupby([variable]).agg({"Casualties": "sum", "Attacks": "sum"})
     gplot = data5

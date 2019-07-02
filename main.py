@@ -17,8 +17,10 @@ import web_scraping
 import visualize
 import pdf
 
+# creo un titulo para el nombre de la imagen guardada
 heading = "Terrorist-Attacks-in-the-USA"
 
+# doy a elegir como quieren los datos
 variable = str(input("Enter by which variable you want to see the data ('Year' or 'Growth Rate'): "))
 
 def read_file(file):
@@ -56,7 +58,7 @@ def visualising(data_merged, variable, heading):
 def generating_pdf():
     pdf.generate_pdf()
 
-
+# uso el main para correr el codigo, aparte del pdf imprimo los datos en consola con stdout por si lo prefieren ver asi
 def main():
     d = read_file("globalterrorismdb_0718dist1.csv")
     d_cleaned = cleaning(d)
