@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8fc3365-27c0-4795-9fcd-a5a28d5f4632" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/analysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/analysis.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api.py" beforeDir="false" afterPath="$PROJECT_DIR$/api.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loading.py" beforeDir="false" afterPath="$PROJECT_DIR$/loading.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdf.py" beforeDir="false" afterPath="$PROJECT_DIR$/pdf.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pipeline.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/pipeline.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/visualize.py" beforeDir="false" afterPath="$PROJECT_DIR$/visualize.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web_scraping.py" beforeDir="false" afterPath="$PROJECT_DIR$/web_scraping.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wrangling.py" beforeDir="false" afterPath="$PROJECT_DIR$/wrangling.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -89,7 +81,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/visualize.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
@@ -97,6 +89,18 @@
               <folding>
                 <element signature="e#0#17#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="225">
+                <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -129,6 +133,7 @@
         <option value="$PROJECT_DIR$/visualize.py" />
         <option value="$PROJECT_DIR$/pdf.py" />
         <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -168,6 +173,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -225,12 +231,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1562081433467</updated>
-      <workItem from="1562081434589" duration="899000" />
+      <workItem from="1562081434589" duration="1068000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="899000" />
+    <option name="totallyTimeSpent" value="1068000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="106" y="23" width="1179" height="790" extended-state="0" />
@@ -340,6 +346,16 @@
           <folding>
             <element signature="e#0#17#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="225">
+            <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
